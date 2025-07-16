@@ -525,7 +525,7 @@ HaveFun.<br>
 ## Example ScreenShots >>>
 
 ## Cleaned Base in Every Modding>>>
-````
+
 ![warning_svb](https://github.com/user-attachments/assets/ba2cc9f8-46cc-44f3-a830-2b37bc2b8c0f)
 ![warning](https://github.com/user-attachments/assets/2e31e152-2ae4-457d-9fbd-2219c0a7ce16)
 ![secure_error](https://github.com/user-attachments/assets/b84f6c34-d092-49b7-ab52-0df9e20d7c88)
@@ -533,35 +533,35 @@ HaveFun.<br>
 ![download](https://github.com/user-attachments/assets/120034e0-efee-4270-be85-a605296e7f5a)
 ![device_unlock](https://github.com/user-attachments/assets/773ce1e3-739a-422d-9748-7edc45c21b42)
 ![device_lock](https://github.com/user-attachments/assets/d34afb61-ee6a-430e-8532-1f6772106857)
-````
+
 
 ## up_param-Alien-Cleaned >>>
-````
+
 ![svb_orange](https://github.com/user-attachments/assets/359795fa-9eb9-4f01-9918-9b84ce97f6f1)
 ![booting_warning](https://github.com/user-attachments/assets/a66f424f-096c-422f-a75a-24160dc8b7e0)
 ![android_logo](https://github.com/user-attachments/assets/dfc06a2f-bb20-4df2-a944-1c00b86c0bda)
-````
+
 ## up_param-Gaming-Cleaned >>>
-````
+
 ![svb_orange](https://github.com/user-attachments/assets/8fe84966-7246-493f-8585-e9f681677d5f)
 ![booting_warning](https://github.com/user-attachments/assets/a978e556-72c6-4af1-99f6-7be5f878dc10)
 ![android_logo](https://github.com/user-attachments/assets/4e09f254-b1fe-41cf-99ff-73fc74da540c)
-````
+
 ## up_param-NetHunter-Cleaned >>>
-````
+
 ![svb_orange](https://github.com/user-attachments/assets/620c53d4-33a2-4f42-8ff1-f20c7c39198f)
 ![booting_warning](https://github.com/user-attachments/assets/544d560a-f81a-4444-a2a8-96a6f82bd078)
 ![android_logo](https://github.com/user-attachments/assets/1cfe3997-e5c7-45f5-ada2-700c3636fd9f)
-````
+
 ## up_param-Online-Cleaned >>>
-````
+
 ![svb_orange](https://github.com/user-attachments/assets/e52b4e5c-72aa-4e7c-83de-7ab38207091c)
 ![booting_warning](https://github.com/user-attachments/assets/6940a2c5-130d-4374-b7d6-4c853f189910)
 ![android_logo](https://github.com/user-attachments/assets/a707a221-92d3-4cf9-a23f-3b211bdee273)
-````
+
 ## up_param-XDA-Cleaned >>>
-````
+
 ![svb_orange](https://github.com/user-attachments/assets/ea031899-0776-4c9a-ae31-667afc62cab5)
 ![booting_warning](https://github.com/user-attachments/assets/a02975e5-14cd-4cff-aa2f-506b4281a617)
 ![android_logo](https://github.com/user-attachments/assets/96068a16-4aa6-4cc9-87ad-9cae1fabadb3)
-````
+
